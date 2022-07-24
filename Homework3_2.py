@@ -1,5 +1,6 @@
 # Создать по 3 варинта всех уже изученных объектов в Пайтоне.
-# line1st - strings
+# Базовый
+# Строки
 'hello'.capitalize()
 'hello'.title()
 'hello'.count()
@@ -9,7 +10,7 @@ int = 15
 float = 15.5
 int = round(10 / 3, 2)
 
-# line 2 - Cписки
+# Cписки
 # Standart type of lists
 list1 = [1, 5, 10]
 list2 = ['dog', 'cat', 'cow']
@@ -24,7 +25,7 @@ names = ['Adam', 'Fred', 'Gregory', 'Eleonora', 'Xan', 'Robert', 'Ad']
 names.sort()
 print(names)
 
-# line 3 - Словари
+# Пункт 3- Словари
 # Стандартный вид словаря
 MyVehicle = {'type': 'car', 'size': 'standard', 'brand': 'BMW'
 , 'model': '5-series', 'class': 'luxury'}
